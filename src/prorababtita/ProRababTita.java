@@ -36,5 +36,8 @@ public class ProRababTita {
          
          // Merge
          System.out.println ("MERGE");
+         
+         //Trunk 
+         System.out.println("TRUNK"); 
     }
 }
