@@ -9,6 +9,11 @@ package prorababtita;
  * @author rabab
  */
 public class ProRababTita {
+    // Para crear el conflicto
+    
+    int restar (int a, int b){
+    return a-b;
+}
 
     /**
      * @param args the command line arguments
