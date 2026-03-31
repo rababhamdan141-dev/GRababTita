@@ -9,6 +9,11 @@ package prorababtita;
  * @author titacn
  */
 public class ProRababTita {
+    // Para crear el conflicto
+    
+    int restar (int a, int b){
+    return a-b;
+}
 
     int sumar (int a, int b){
         return a + b;
@@ -27,5 +32,6 @@ public class ProRababTita {
          
          // the fourth change
          System.out.println("Hola que tal?");
+         System.out.println("Hola que tal otra vez?");
     }
 }
