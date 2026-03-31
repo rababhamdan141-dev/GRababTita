@@ -6,10 +6,13 @@ package prorababtita;
 
 /**
  *
- * @author rabab
+ * @author titacn
  */
 public class ProRababTita {
 
+    int sumar (int a, int b){
+        return a + b;
+    };
     /**
      * @param args the command line arguments
      */
@@ -25,5 +28,4 @@ public class ProRababTita {
          // the fourth change
          System.out.println("Hola que tal?");
     }
-    
 }
