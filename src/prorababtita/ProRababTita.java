@@ -39,5 +39,8 @@ public class ProRababTita {
          
          //Trunk 
          System.out.println("TRUNK"); 
+         
+         //ETIQUETA
+         System.out.println("FIN.");
     }
 }
