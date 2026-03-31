@@ -33,5 +33,8 @@ public class ProRababTita {
          // the fourth change
          System.out.println("Hola que tal?");
          System.out.println("Hola que tal otra vez?");
+         
+         // Merge
+         System.out.println ("MERGE");
     }
 }
